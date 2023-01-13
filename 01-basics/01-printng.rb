@@ -24,3 +24,13 @@ puts "Hello\tWorld" # prints "Hello" followed by a tab character and then "World
 print "Hello World"
 print 1 + 2
 print 1.0 / 2.0
+
+
+########################################################################################
+
+# The `p` method prints a more detailed representation of a value to the console, followed by a new line.
+
+p "Hello World"
+p 5
+p "5"
+p "Hello\nWorld"
