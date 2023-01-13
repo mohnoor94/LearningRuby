@@ -48,3 +48,13 @@ puts 3 / 5.0
 puts 2 ** 3 # 2 to the power of 3
 puts 5 % 2 # modulus operator
 puts 5 % 3.2 
+
+
+########################################################################################
+
+# String Concatenation
+puts "Hello" + " " + "World"
+
+# puts 3 + "4" # TypeError (can't convert String into Integer)
+# puts "3" + 4 # TypeError (can't convert Integer into String)
+puts "3" + "4" # "34"
