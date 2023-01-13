@@ -58,3 +58,23 @@ puts "Hello" + " " + "World"
 # puts 3 + "4" # TypeError (can't convert String into Integer)
 # puts "3" + 4 # TypeError (can't convert Integer into String)
 puts "3" + "4" # "34"
+
+
+########################################################################################
+
+# Comments
+# This is a one line comment.
+
+# Multi-line comments are not recommended.
+
+=begin
+But here is an example of 
+a multi-line
+comment.
+=end
+
+# Multi-line comments are useful for temporarily disabling code.
+
+
+########################################################################################
+
