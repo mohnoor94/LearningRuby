@@ -5,7 +5,7 @@ puts 1 + 2
 puts 1.0 / 2.0
 puts # prints a blank line
 puts "After the blank line"
-puts "Hello" + " " + "World"
+puts "Hello" + " " + "World"  # string concatenation
 puts 1, "Hello", 3 # prints each value on a separate line
 
 puts "Hello\nWorld" # prints "Hello" on one line and "World" on another line
@@ -34,3 +34,17 @@ p "Hello World"
 p 5
 p "5"
 p "Hello\nWorld"
+
+
+########################################################################################
+
+# Basic Arithmetic
+
+puts 1 + 2
+puts 1 - 2
+puts 1 * 2
+puts 3 / 5.0
+
+puts 2 ** 3 # 2 to the power of 3
+puts 5 % 2 # modulus operator
+puts 5 % 3.2 
